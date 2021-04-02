@@ -79,3 +79,4 @@ git remote add upstream https://github.com/rachelss/curly-enigma.git
 git pull upstream master
 git push origin master
 Both collaborators now have identical copies of #2's repo locally and on github
+make a change to the repo
