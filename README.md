@@ -5,15 +5,22 @@ Version Control with Git
 This assignment assumes you know how to use git on your computer locally
 
 [X] Go to http://github.com and sign up for an account
+
 [X] Create a new github repository using the + in the upper righthand corner
+
 [X] Select a name (it doesn't matter for the assignment, but usually you will pick something
 informative)
+
 [] In your Terminal (Mac / Linux) or git-bash (Windows) go to your local repository
+
 [] Connect your repository to your "remote" github repository (conventionally termed origin)
 git remote add origin https://github.com/rachelss/curly-enigma.git
+
 [] Check that "origin" indicates the remote repo (git remote -v)
+
 [] Push your local "master" repository to github (i.e. duplicate the entire repository including all
 the commit history to your remote "origin" site) (git push origin master)
+
 [] Make a change to your repository, save it, and commit the change
 
 ** Work in pairs for the rest of the assignment **
