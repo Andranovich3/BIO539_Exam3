@@ -26,24 +26,29 @@ the commit history to your remote "origin" site) (git push origin master)
 ** Work in pairs for the rest of the assignment **
 
 Assign one partner to be person #1 and one as #2
-(1) in your github repository click the settings button and add #2 as a collaborator
-(2) got to github notifications or check your email to accept the collaboration
-(2) go to the collaborative repository, click on the clone/download button, click the clipboard to
+[] (1) in your github repository click the settings button and add #2 as a collaborator
+
+[] (2) got to github notifications or check your email to accept the collaboration
+
+[] (2) go to the collaborative repository, click on the clone/download button, click the clipboard to
 copy the repo link
-(2) copy the repo to your computer
+
+[] (2) copy the repo to your computer
 git clone https://github.com/rachelss/curly-enigma.git
-(2) make a change to the repo and push it
-(1) get #2's change
+
+[] (2) make a change to the repo and push it
+
+[] (1) get #2's change
 git pull origin master
-Both collaborators now have identical copies of #1's repo
+**Both collaborators now have identical copies of #1's repo**
 
 Challenge 1
 Using #1's repo collaboratively
-(2) make a change to the first line of a file and push it
-(1) make a change to the last line
-(1) pull the repo (the changes should be merged automatically)
-(1) push the repo
-(2) pull the repo
+[] (2) make a change to the first line of a file and push it
+[] (1) make a change to the last line
+[] (1) pull the repo (the changes should be merged automatically)
+[] (1) push the repo
+[] (2) pull the repo
 Both collaborators now have identical copies of #1's repo
 
 Challenge 2
